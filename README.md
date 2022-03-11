@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Learning Dart
 
-You can use the [editor on GitHub](https://github.com/Programmer-RD-AI/Learning-Dart/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this Repo I am going to be learning dart so in the Learning-Flutter Repo I am going to be learning flutter I wanted to first understand dart more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Badges
 
-### Markdown
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![DeepSource](https://deepsource.io/gh/Programmer-RD-AI/Learning-Dart.svg/?label=active+issues&show_trend=true&token=RjwNSBB-gMDMYnOYWEkxqy3b)](https://deepsource.io/gh/Programmer-RD-AI/Learning-Dart/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/Programmer-RD-AI/Learning-Dart.svg/?label=resolved+issues&show_trend=true&token=RjwNSBB-gMDMYnOYWEkxqy3b)](https://deepsource.io/gh/Programmer-RD-AI/Learning-Dart/?ref=repository-badge)
 
-```markdown
-Syntax highlighted code block
+## Demo
 
-# Header 1
-## Header 2
-### Header 3
+Currently Working On
 
-- Bulleted
-- List
+## Installation
 
-1. Numbered
-2. List
+Currently Working On
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Support
 
-### Jekyll Themes
+For support, email go2ranuga@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Programmer-RD-AI/Learning-Dart/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Authors
 
-### Support or Contact
+- [@Programmer-RD-AI](https://www.github.com/Programmer-RD-AI)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Acknowledgements
+
+- [Dart in 100 Seconds](https://www.youtube.com/watch?v=NrO0CJCbYLA)
+- [Dart Programming in 4 hours | Full beginners tutorial](https://www.youtube.com/watch?v=5xlVP04905w)
+
+## Feedback
+
+If you have any feedback, please reach out to us at go2ranuga@gmail.com
